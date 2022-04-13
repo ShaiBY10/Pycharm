@@ -1,0 +1,13 @@
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="ContextRun">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+</keymap>

@@ -1,0 +1,12 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'question_bank.cpython-310.pyc'" />
+    <option name="defaultScopeName" value="Project 'question_bank.cpython-310.pyc'" />
+    <option name="SEARCH_SCOPE" value="Project 'question_bank.cpython-310.pyc'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+  </component>
+</application>
