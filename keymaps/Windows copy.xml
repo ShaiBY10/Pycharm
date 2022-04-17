@@ -3,4 +3,8 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="Move" />
 </keymap>
