@@ -4,12 +4,13 @@
     <property name="created">2022-05-15T17:41:11</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-15T17:44:09</property>
+    <property name="modified">2022-05-15T17:56:50</property>
     <property name="originalScheme">Oceanic Dark Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono Book" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono Medium" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
@@ -467,7 +468,7 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b294bb" />
+        <option name="FOREGROUND" value="5b7dbc" />
       </value>
     </option>
     <option name="PY.PARAMETER">
