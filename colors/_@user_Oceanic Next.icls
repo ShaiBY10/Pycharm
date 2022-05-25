@@ -3,7 +3,7 @@
     <property name="created">2022-05-19T15:32:07</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-19T15:39:52</property>
+    <property name="modified">2022-05-25T21:05:22</property>
     <property name="originalScheme">Oceanic Next</property>
   </metaInfo>
   <colors>
@@ -807,6 +807,7 @@
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
         <option name="ERROR_STRIPE_COLOR" value="ff5370" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -1387,6 +1388,12 @@
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="12404b" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="80bfff" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -2208,6 +2215,12 @@
     </option>
     <option name="MARKDOWN_TABLE_SEPARATOR">
       <value />
+    </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
@@ -3780,6 +3793,7 @@
         <option name="FOREGROUND" value="d32f2f" />
         <option name="EFFECT_COLOR" value="d32f2f" />
         <option name="ERROR_STRIPE_COLOR" value="d32f2f" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
